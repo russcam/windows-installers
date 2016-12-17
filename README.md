@@ -1,6 +1,6 @@
 # Windows installers for the Elastic stack
 
-This is the repository for the Elastick stack MSI-based Windows installers.
+This is the repository for the Elastic stack MSI-based Windows installers.
 
 ![Example Install Flow](images/example-flow.gif)
 
